@@ -24,6 +24,7 @@ const skills = [
   { name: "Graphic Design", icon: PenTool },
   { name: "Web Development", icon: Globe },
   { name: "Mobile App Development", icon: Smartphone },
+  {name: "Advance Excel" , icon: BarChart3},
   { name: "Music Production", icon: Music },
   { name: "Machine Learning", icon: Brain },
   { name: "Database Management", icon: Database }
